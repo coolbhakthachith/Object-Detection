@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient( red , orange , yellow , green , blue , indigo , violet );
+}
+.heading{
+    width: 100%;
+    font-size: 30;
+    margin-top: 0px;
+}
+.heading:hover{
+    font-size: 40;
+}
+.link{
+    background-color: black;
+    font-size: 20;
+    width: 80px;
+    float: right;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}

@@ -1,6 +1,6 @@
 body{
-    background-size: cover;
-    background-position: center;
+    background-image: linear-gradient( red , orange , yellow , green , blue , indigo , violet );
+    text-align: center;
 }
 .heading
 {
@@ -9,12 +9,15 @@ width: 100%;
 margin: 0px;
 }
 .link {
-    font-size: 20px;
-    background: #000;;
-    border-radius: 10px;
+    font-size: 25px;
+    font-style: italic;
+    color: rgb(227, 4, 108);
+    background: rgba(0, 0, 0, 0);
     width: 300px;
-    margin-top: 15px;
+    margin-top: 16px;
 }
 .link:hover{
-    font-size: 20px;
+    font-size: 25px;
 }
+
+   
